@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: rgb(47, 255, 175);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+} 
+
+header h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid white
+
+}
+
+main{
+    
+    max-width: 800px; 
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
+
+main img{
+    max-width: 100%
+}
+
+h2{
+    font-size: 35px;
+    color: rgb(60, 255, 0);
+}
+
+a{
+    color: rgb(5, 239, 60);
+}
+
+footer p{
+    background-color: greenyellow;
+    text-align: center;
+    color: green;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
